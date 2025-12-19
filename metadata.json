@@ -1,0 +1,5 @@
+{
+  "name": "TubeDash AI",
+  "description": "A modern, high-performance frontend interface for video analysis and processing. Features a simulated downloader UI and real-time AI video metadata optimization using Google Gemini.",
+  "requestFramePermissions": []
+}
